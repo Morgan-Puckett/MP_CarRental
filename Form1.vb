@@ -2,10 +2,11 @@
 'RCET0265
 'Spring 2022
 'Car Rental
-'
+'https://github.com/Morgan-Puckett/MP_CarRental.git
 
-
-
+Option Explicit On
+Option Strict On
+Option Compare Binary
 
 Public Class MP_CarRental
     Dim errorMsg As String
